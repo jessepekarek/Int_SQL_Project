@@ -1,0 +1,27 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Environment files
+.env
+*.env
+
+# DBeaver
+.dbeaver/
+.settings/
+Bookmarks/
+Diagrams/
+Scripts/
+
+# Project file
+.project
+
+# Temporary files
+*.tmp
+*.temp
+*.log
